@@ -1,0 +1,60 @@
+#homelinearsec {
+	background: linear-gradient( #fa87ec 0%, #a987fa 35%, #6d8efc 100%);
+	position: absolute;
+	height: 800px;
+	color: black;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	opacity: 0.83;
+	display: table;
+	width: 100%;
+	height: 50%;
+	z-index: 8;
+}
+
+h1 {
+	font-variant:small-caps;
+	text-shadow:7px;
+}
+
+img {
+	width:160px;
+	height:238px;
+}
+
+body{
+background-color: #fdb0c0;
+z-index: 9;
+font-family: Parisienne;
+font-size: 24px;
+}
+#aboutme{
+margin-top: 28%;
+}
+.menu{
+list-style-type: armenian;
+font-family: 'Cinzel Decorative', cursive;
+position: absolute;
+top: 10px;
+left: 30px;
+z-index: 10;
+cursor: grab;
+}
+
+.links{
+float: left;
+color: aliceblue;
+padding-left: 9px;
+padding-right: 9px;
+font-size: 20;
+}
+.links:hover{
+background-color: darkturquoise;
+}
+
+a{
+color: aliceblue;
+text-decoration-line: none;
+}
